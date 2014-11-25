@@ -1,4 +1,4 @@
-# Signifigance
+# Significance
 
 A simple interface for storing memories.
 
